@@ -25,6 +25,10 @@ p {
     padding: 40px 10px 5px 10px;
 }
 
+/* Position absolute is coming in relation to the relative position of section! Top 0 and right 0 means, that these p-s are in the
+top right corner of section.
+*/
+
 #p1 {
     background-color: rgb(214, 214, 189);
     position: absolute;
