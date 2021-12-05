@@ -9,6 +9,9 @@ html {
 
 body {
     display: block;
+    font-size: 16px;
+    color: #fff;
+    background-color: rgb(60, 153, 60);
 }
   
 h1 {
